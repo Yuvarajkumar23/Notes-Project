@@ -1,10 +1,10 @@
-# TNPSC Annual Planner 2025 Exam Dates 📅
+# TNPSC & SSC Annual Planner 2025 Exam Dates 📅
 
-This repository contains the TNPSC Annual Planner 2025, including notification and exam dates.
+This repository contains the TNPSC Annual Planner 2025 and SSC CGL notification and exam schedule for 2025.
 
 ---
 
-## TNPSC Notification and Exam Schedule 📋
+## TNPSC and SSC Notification and Exam Schedule 📋
 
 | S.No | Name of the Post/Examination                         | Date of Notification | Exam Date          | No. of Days |
 |------|------------------------------------------------------|----------------------|--------------------|-------------|
@@ -15,6 +15,7 @@ This repository contains the TNPSC Annual Planner 2025, including notification a
 | 5    | Combined Civil Services Examination-II (Group II & IIA Services) | 18th June 2025       | 6th August 2025   | 01          |
 | 6    | Combined Civil Services Examination-IV (Diploma/ITI Level) | 7th July 2025        | 29th September 2025 | 01        |
 | 7    | Combined Civil Services Examination- Group V-A Services | 7th October 2025     | 18th December 2025 | 01         |
+| 8    | SSC Combined Graduate Level Examination (SSC CGL 2025) | Jan 2025         | mar 2025         | Multiple    |
 
 ---
 
@@ -22,7 +23,9 @@ This repository contains the TNPSC Annual Planner 2025, including notification a
 
 - The **preliminary exam** for Group I Services is scheduled for 15th June 2025.
 - The **Group II exam** is planned for **29th September 2025**.
+- SSC CGL notification is expected in **March 2025**, and the exams are scheduled for **June 2025** (exact dates to be confirmed).
 - Detailed notifications and updates will follow.
 
 ---
+
 
